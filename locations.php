@@ -5,8 +5,8 @@
     <h1>Windsor Nagoya</h1>
     <div class="location-description">10 mins walk from Nagoya Mall.</div>
     <div class="location-address">
+      Komplek Windsor Central.<br>
       Jalan Pembangunan. <br>
-      Komplek Windsor Central. <br>
       Blok B no: 16. <br>
       Lubuk Baja.
     </div>
