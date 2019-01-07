@@ -5,7 +5,10 @@
     <h1>Windsor Nagoya</h1>
     <span class="location-description">10 mins walk from Nagoya Mall.</span>
     <div class="location-address">
-      Jalan Pembangunan. Komplek Windsor Central. Blok B no: 16. Lubuk Baja.
+      Jalan Pembangunan. <br>
+      Komplek Windsor Central. <br>
+      Blok B no: 16. <br>
+      Lubuk Baja.
     </div>
     <div class="location-map" id="map-windsor"></div>
     <script>
@@ -29,7 +32,8 @@
     <h1>Penuin</h1>
     <span class="location-description">Near BCS Mall, behind Batam City Hotel.</span>
     <div class="location-address">
-      Komplek Penuin Central. Blok Q no: 12.
+      Komplek Penuin Central. <br>
+      Blok Q no: 12.
     </div>
     <div class="location-map" id="map-windsor"></div>
     <script>

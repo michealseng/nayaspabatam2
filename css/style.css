@@ -804,6 +804,7 @@ nav {
 .location-description {
   font-size: 14px;
   color: rgba(0,0,0,0.52);
+  margin: 8px 0;
 }
 .location-address {
   font-size: 16px;
