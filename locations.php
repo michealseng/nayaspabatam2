@@ -1,9 +1,9 @@
 <?php  echo file_get_contents("html/header.html"); ?>
 <?php  echo file_get_contents("html/top-nav.html"); ?>
-<div class="uk-column-1-2@m uk-column-1-1@s">
+<div class="locations uk-column-1-2@m uk-column-1-1@s">
   <div class="location-a">
     <h1>Windsor Nagoya</h1>
-    <span class="">10 mins walk from Nagoya Mall.</span>
+    <span class="location-description">10 mins walk from Nagoya Mall.</span>
     <div class="location-address">
       Jalan Pembangunan. Komplek Windsor Central. Blok B no: 16. Lubuk Baja.
     </div>
@@ -25,11 +25,11 @@
       </script>
   </div>
 
-  <div class="location-a">
+  <div class="location-b">
     <h1>Penuin</h1>
-    <span class="">Near BCS Mall, behind Batam City Hotel.</span>
+    <span class="location-description">Near BCS Mall, behind Batam City Hotel.</span>
     <div class="location-address">
-      Komplek Penuin Central. Blok Q no: 12. 
+      Komplek Penuin Central. Blok Q no: 12.
     </div>
     <div class="location-map" id="map-windsor"></div>
     <script>

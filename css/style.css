@@ -795,3 +795,17 @@ nav {
     margin-left: 0;
   }
 }
+
+/* Locations */
+.locations {
+  max-width: 1280px;
+  margin: 48px auto;
+}
+.location-description {
+  font-size: 14px;
+  color: rgba(0,0,0,0.52);
+}
+.location-address {
+  font-size: 16px;
+  line-height: 20px;
+}
