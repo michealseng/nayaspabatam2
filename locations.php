@@ -3,7 +3,7 @@
 <div class="locations uk-column-1-2@m uk-column-1-1@s">
   <div class="location-a">
     <h1>Windsor Nagoya</h1>
-    <span class="location-description">10 mins walk from Nagoya Mall.</span>
+    <div class="location-description">10 mins walk from Nagoya Mall.</div>
     <div class="location-address">
       Jalan Pembangunan. <br>
       Komplek Windsor Central. <br>
@@ -30,7 +30,7 @@
 
   <div class="location-b">
     <h1>Penuin</h1>
-    <span class="location-description">Near BCS Mall, behind Batam City Hotel.</span>
+    <div class="location-description">Near BCS Mall, behind Batam City Hotel.</div>
     <div class="location-address">
       Komplek Penuin Central. <br>
       Blok Q no: 12.
