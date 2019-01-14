@@ -78,9 +78,9 @@
           <img src="assets/services/indulgence.jpg" alt="Complete Body Indulgence Image" />
         </div>
         <div class="card-content">
-          <h4>Complete Body Indulgence</h4>
+          <h4>Signature Rituals</h4>
           <div class="card-content_description">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt libero eget metus venenatis, at eleifend libero fermentum. Suspendisse eros massa, ullamcorper faucibus lectus vitae.
+            Any Signature Rituals last at least 3 hours, where you will be pampered from head to toe. It's the perfect relaxation you need.
           </div>
           <div class="card-content_link">
             <a href="#">See Complete Body Indulgence Services</a>
@@ -94,9 +94,9 @@
         <div class="card">
         <div class="card-img"><img src="assets/services/classical-massage.jpg" alt="Relieve sore and muscle tension image" /></div>
         <div class="card-content">
-          <h4>Classical Body Massage</h4>
+          <h4>Combinations</h4>
           <div class="card-content_description">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt libero eget metus venenatis, at eleifend libero fermentum. Suspendisse eros massa, ullamcorper faucibus lectus vitae.
+            If you don't want to spend for at least 3 hours but you do want to get pampered from your head to toe, then checkout our Combinations packages.
           </div>
           <div class="card-content_link">
             <a href="#">See Classical Body Massage Services</a>
@@ -110,12 +110,9 @@
         <div class="card">
         <div class="card-img"><img src="assets/services/foot.jpg" alt="Relieve sore and muscle tension image" /></div>
         <div class="card-content">
-          <h4>Foot</h4>
+          <h4>Massage Treatments</h4>
           <div class="card-content_description">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt libero eget metus venenatis, at eleifend libero fermentum. Suspendisse eros massa, ullamcorper faucibus lectus vitae.
-          </div>
-          <div class="card-content_link">
-            <a href="#">See Foot Services</a>
+            We offers essential oils massage, hot stone, deep tissue, herbal compress, and a four-hands massage.
           </div>
         </div>
       </div>
@@ -124,14 +121,43 @@
     <div class="card-container">
       <a href="#">
         <div class="card">
-        <div class="card-img"><img <img src="assets/services/facial.jpg" alt="Relieve sore and muscle tension image" /></div>
+        <div class="card-img">
+          <img <img src="assets/services/facial.jpg" alt="Relieve sore and muscle tension image" />
+        </div>
         <div class="card-content">
-          <h4>Facial</h4>
+          <h4>Foot Treatments</h4>
           <div class="card-content_description">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt libero eget metus venenatis, at eleifend libero fermentum. Suspendisse eros massa, ullamcorper faucibus lectus vitae.
+            We offers foot spa, reflexology, and foot scrub. If you want to pampered your feet, try our Naya Special Foot Spa.
           </div>
-          <div class="card-content_link">
-            <a href="#">See All Facial Services</a>
+        </div>
+      </div>
+      </a>
+    </div>
+    <div class="card-container">
+      <a href="#">
+        <div class="card">
+        <div class="card-img">
+          <img <img src="assets/services/facial.jpg" alt="Relieve sore and muscle tension image" />
+        </div>
+        <div class="card-content">
+          <h4>Ultrasonic Bubble Bath</h4>
+          <div class="card-content_description">
+            It has been a long tradition to heal through water. Our Ultrasonic Bubble Bath will help you release your tensions and give back the energy you need. Learn more about <a href="#">Ultrasonic Bubble Bath</a>.
+          </div>
+        </div>
+      </div>
+      </a>
+    </div>
+    <div class="card-container">
+      <a href="#">
+        <div class="card">
+        <div class="card-img">
+          <img <img src="assets/services/facial.jpg" alt="Relieve sore and muscle tension image" />
+        </div>
+        <div class="card-content">
+          <h4>Face Therapy</h4>
+          <div class="card-content_description">
+            We offers Face Accupressure, Refreshing Facial, Eye Compress, Ear Candle, and Anti-Aging Facial.
           </div>
         </div>
       </div>
@@ -140,24 +166,6 @@
   </div>
   <div class="section-footer">
     <a href="#">See All Services</a>
-</section>
-
-<!-- <section class="section testimonials">
-  <div class="section-title">
-    <h3>What People Say About Us</h3>
-  </div>
-  <div uk-slideshow="max-height:600px">
-    <ul class="uk-slideshow-items">
-        <li>
-          <img src="assets/logo.png" />
-          <div class="uk-position-center uk-position-medium uk-text-center">
-            <div class="uk-position-center uk-position-small uk-text-center uk-light">
-                <h2>Heading</h2>
-                <p>Lorem ipsum dolor sit amet.</p>
-            </div>
-          </div> -->
-        </li>
-    </ul>
   </div>
 </section>
 
