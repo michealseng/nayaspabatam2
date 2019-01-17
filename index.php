@@ -72,7 +72,7 @@
   </div>
   <div class="cards grid-1120">
     <div class="card-container">
-      <a href="#">
+      <a href="services.php#signature-rituals">
         <div class="card">
         <div class="card-img">
           <img src="assets/services/indulgence.jpg" alt="Complete Body Indulgence Image" />
@@ -90,22 +90,22 @@
       </a>
     </div>
     <div class="card-container">
-      <a href="#">
+      <a href="services.php#combinations">
         <div class="card">
           <div class="card-img"><img src="assets/services/classical-massage.jpg" alt="Relieve sore and muscle tension image" /></div>
           <div class="card-content">
             <h4>Combinations</h4>
             <div class="card-content_description">
-              If you don't want to spend for at least 3 hours but you do want to get pampered from your head to toe, then checkout our Combinations packages.
+              Almost similar to Signature Rituals, which includes a mix combination of foot and massage treatment.
             </div>
           </div>
         </div>
       </a>
     </div>
     <div class="card-container">
-      <a href="#">
+      <a href="services.php#massage">
         <div class="card">
-        <div class="card-img"><img src="assets/services/foot.jpg" alt="Relieve sore and muscle tension image" /></div>
+        <div class="card-img"><img src="assets/services/massage.jpg" alt="Relieve sore and muscle tension image" /></div>
         <div class="card-content">
           <h4>Massage Treatments</h4>
           <div class="card-content_description">
@@ -116,10 +116,10 @@
       </a>
     </div>
     <div class="card-container">
-      <a href="#">
+      <a href="services.php#foot">
         <div class="card">
           <div class="card-img">
-            <img <img src="assets/services/facial.jpg" alt="Relieve sore and muscle tension image" />
+            <img <img src="assets/services/foot.jpg" alt="Relieve sore and muscle tension image" />
           </div>
           <div class="card-content">
             <h4>Foot Treatments</h4>
@@ -131,9 +131,9 @@
       </a>
     </div>
     <div class="card-container">
-      <a href="#">
+      <a href="services.php#bath">
         <div class="card">
-          <div class="card-img"><img src="assets/services/classical-massage.jpg" alt="Relieve sore and muscle tension image" /></div>
+          <div class="card-img"><img src="assets/services/bath.jpg" alt="Relieve sore and muscle tension image" /></div>
           <div class="card-content">
             <h4>Ultrasonic Bubble Bath</h4>
             <div class="card-content_description">
@@ -144,7 +144,7 @@
       </a>
     </div>
     <div class="card-container">
-      <a href="#">
+      <a href="services.php#face">
         <div class="card">
         <div class="card-img">
           <img <img src="assets/services/facial.jpg" alt="Relieve sore and muscle tension image" />
