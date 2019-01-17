@@ -1,5 +1,5 @@
 /*RESET*/
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {margin:0; padding:0; border:0; outline:0; font-size:100%; vertical-align:baseline; background:transparent;} body {line-height: 1;}ol, ul{list-style:none;} blockquote, q{quotes:none;} blockquote:before, blockquote:after, q:before, q:after{content:'';content:none;} :focus{outline:0;} ins{text-decoration:none;} del{text-decoration:line-through;} table{border-collapse:collapse; border-spacing:0;}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {margin:0; padding:0; border:0; outline:0; font-size:100%; vertical-align:baseline; background:transparent;} body {line-height: 1;} blockquote, q{quotes:none;} blockquote:before, blockquote:after, q:before, q:after{content:'';content:none;} :focus{outline:0;} ins{text-decoration:none;} del{text-decoration:line-through;} table{border-collapse:collapse; border-spacing:0;}
 
 html,
 input,
@@ -23,6 +23,10 @@ select {
 
 body {
   margin: 0 auto;
+}
+
+ul {
+  padding-left: 2.4rem;
 }
 
 /* Typography */
@@ -59,6 +63,7 @@ small {
   padding: 2.4rem;
   max-width: 124rem;
   margin: 0 auto;
+  position: relative;
 }
 
 /* Link */
@@ -489,6 +494,29 @@ nav {
   background: #f4f4f4;
 }
 
+.services-nav {
+  background: white;
+  position: sticky;
+  top: 60px;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.services-nav li {
+  padding: 16px;
+  line-height: 20px;
+}
+
+.services-nav li a {
+  color: rgba(0, 0, 0, 0.87);
+  text-decoration:
+}
+
+.service-category {
+  margin: 2.4rem 0.8rem;
+}
+
 .benefits {
   background: white;
 }
@@ -568,14 +596,22 @@ nav {
 .alacart-container {
   display: flex;
   flex-flow: row wrap;
+
 }
 
 .service {
   display: flex;
   flex-flow: column nowrap;
-  width: 50%;
+  width: 76rem;
   padding: 2.4rem 1.6rem;
+  margin: 0 auto;
   box-sizing: border-box;
+  position: relative;
+}
+
+.anchor {
+  position: absolute;
+  top: -11.2rem;
 }
 
 .service img {
@@ -586,7 +622,7 @@ nav {
 }
 .service-title {
   display: flex;
-  align-items: center;
+  align-items: baseline;
   margin-bottom: 0.4rem;
 }
 
@@ -616,6 +652,8 @@ nav {
 
 .service-pricing span {
   margin-right: 1.6rem;
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.7);
 }
 
 /* About Us */

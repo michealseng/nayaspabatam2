@@ -9,6 +9,8 @@
         Kneipp Home Spa is a family based company who cares for the well-being of our customers and people in our neighborhood. We believe that health is a very important asset of happiness.
         <br><br>
         We believe in giving back to the community by giving free ultrasonic hydrotherapy treatment to elderly in needs, especially who stay at the nursery home in Batam.
+        <br><br>
+        Also, 5% of our revenue will be donated for scholarship.
       </div>
     </section>
 

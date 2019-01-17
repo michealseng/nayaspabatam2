@@ -56,7 +56,7 @@
       <div class="card-content">
         <h4>Stimulate exercise and contouring</h4>
         <div class="card-content_description">
-          The ultrasonic bubble stimulates your body as if you are running 3 -5 KM with just 10 minutes of bathing.
+          The ultrasonic bubble stimulates your body as if you are running 3-5 KM with just 10 minutes of bathing.
         </div>
       </div>
     </div>
@@ -82,9 +82,9 @@
           <div class="card-content_description">
             Any Signature Rituals last at least 3 hours, where you will be pampered from head to toe. It's the perfect relaxation you need.
           </div>
-          <div class="card-content_link">
+          <!-- <div class="card-content_link">
             <a href="#">See Complete Body Indulgence Services</a>
-          </div>
+          </div> -->
         </div>
       </div>
       </a>
@@ -92,17 +92,14 @@
     <div class="card-container">
       <a href="#">
         <div class="card">
-        <div class="card-img"><img src="assets/services/classical-massage.jpg" alt="Relieve sore and muscle tension image" /></div>
-        <div class="card-content">
-          <h4>Combinations</h4>
-          <div class="card-content_description">
-            If you don't want to spend for at least 3 hours but you do want to get pampered from your head to toe, then checkout our Combinations packages.
-          </div>
-          <div class="card-content_link">
-            <a href="#">See Classical Body Massage Services</a>
+          <div class="card-img"><img src="assets/services/classical-massage.jpg" alt="Relieve sore and muscle tension image" /></div>
+          <div class="card-content">
+            <h4>Combinations</h4>
+            <div class="card-content_description">
+              If you don't want to spend for at least 3 hours but you do want to get pampered from your head to toe, then checkout our Combinations packages.
+            </div>
           </div>
         </div>
-      </div>
       </a>
     </div>
     <div class="card-container">
@@ -112,7 +109,7 @@
         <div class="card-content">
           <h4>Massage Treatments</h4>
           <div class="card-content_description">
-            We offers essential oils massage, hot stone, deep tissue, herbal compress, and a four-hands massage.
+            We offer essential oils massage, hot stone, deep tissue, herbal compress, and a four-hands massage.
           </div>
         </div>
       </div>
@@ -121,31 +118,29 @@
     <div class="card-container">
       <a href="#">
         <div class="card">
-        <div class="card-img">
-          <img <img src="assets/services/facial.jpg" alt="Relieve sore and muscle tension image" />
-        </div>
-        <div class="card-content">
-          <h4>Foot Treatments</h4>
-          <div class="card-content_description">
-            We offers foot spa, reflexology, and foot scrub. If you want to pampered your feet, try our Naya Special Foot Spa.
+          <div class="card-img">
+            <img <img src="assets/services/facial.jpg" alt="Relieve sore and muscle tension image" />
+          </div>
+          <div class="card-content">
+            <h4>Foot Treatments</h4>
+            <div class="card-content_description">
+              We offer foot spa, reflexology, and foot scrub. If you want to pampered your feet, try our Naya Special Foot Spa.
+            </div>
           </div>
         </div>
-      </div>
       </a>
     </div>
     <div class="card-container">
       <a href="#">
         <div class="card">
-        <div class="card-img">
-          <img <img src="assets/services/facial.jpg" alt="Relieve sore and muscle tension image" />
-        </div>
-        <div class="card-content">
-          <h4>Ultrasonic Bubble Bath</h4>
-          <div class="card-content_description">
-            It has been a long tradition to heal through water. Our Ultrasonic Bubble Bath will help you release your tensions and give back the energy you need. Learn more about <a href="#">Ultrasonic Bubble Bath</a>.
+          <div class="card-img"><img src="assets/services/classical-massage.jpg" alt="Relieve sore and muscle tension image" /></div>
+          <div class="card-content">
+            <h4>Ultrasonic Bubble Bath</h4>
+            <div class="card-content_description">
+              It has been a long tradition to heal through water. Our Ultrasonic Bubble Bath will help you release your tensions and give back the energy you need.
+            </div>
           </div>
         </div>
-      </div>
       </a>
     </div>
     <div class="card-container">
