@@ -544,6 +544,10 @@ nav {
     background-image: url('file:///Users/michealseng/Desktop/kneipp-spa/assets/pattern.svg');
 }
 
+.booknow-buttons {
+  color: white;
+}
+
 .booknow-message {
   margin-bottom: 3.2rem;
   color: white;
