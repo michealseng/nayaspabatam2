@@ -160,7 +160,7 @@
     </div>
   </div>
   <div class="section-footer">
-    <a href="#">See All Services</a>
+    <a href="services.php">See All Services</a>
   </div>
 </section>
 
@@ -168,10 +168,10 @@
   <div class="grid-1120">
     <div class="booknow-message">
       <h2>Ready to relax and getaway?</h2>
-      <!-- <h2>Book online</h2> -->
+
     </div>
     <div class="booknow-buttons">
-      <button class="btn btn-inverse">Book Now</button>
+      <span>Contact us through WhatsApp, email, or call us.</span> 
       <!-- <button class="btn btn-inverse">Contact Us</button> -->
     </div>
   </div>
