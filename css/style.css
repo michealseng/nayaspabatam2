@@ -510,7 +510,7 @@ nav {
 
 .services-nav li a {
   color: rgba(0, 0, 0, 0.87);
-  text-decoration:
+  text-decoration: none;
 }
 
 .service-category {
@@ -813,6 +813,12 @@ nav {
      align-items: center;
    }
 
+   .services-nav {
+     top: 4rem;
+     overflow-x: scroll;
+     flex-wrap: nowrap;
+     padding: 0 24px;
+   }
 }
 
 /* Ipad */
@@ -835,6 +841,12 @@ nav {
 
   .service-title span:first-child {
     margin-left: 0;
+  }
+  .services-nav {
+    top: 4rem;
+    overflow-x: scroll;
+    flex-wrap: nowrap;
+    padding: 0 24px;
   }
 }
 
