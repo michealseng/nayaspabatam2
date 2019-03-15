@@ -332,7 +332,7 @@ nav {
 }
 
 .logo {
-  height: 40px;
+  height: 6.4rem;
   width: auto;
   background: url("file:///Users/michealseng/Desktop/kneipp-spa/assets/logo.png");
   cursor: pointer;
@@ -710,6 +710,21 @@ nav {
   margin: 0 auto;
 }
 
+.naya-must-try {
+  background: #FFFBF2;
+}
+
+.naya-must-try > img,
+.naya-menu{
+  width: 60%;
+  margin: 0 auto;
+  display: block;
+}
+
+.naya-menu {
+
+}
+
 
 /* Mobile */
 @media screen and (max-width:767px) {
@@ -819,6 +834,10 @@ nav {
      flex-wrap: nowrap;
      padding: 0 24px;
    }
+   .naya-must-try > img,
+   .naya-menu > img{
+     width: 100%;
+   }
 }
 
 /* Ipad */
@@ -847,6 +866,10 @@ nav {
     overflow-x: scroll;
     flex-wrap: nowrap;
     padding: 0 24px;
+  }
+  .naya-must-try > img,
+  .naya-menu > img{
+    width: 100%;
   }
 }
 
