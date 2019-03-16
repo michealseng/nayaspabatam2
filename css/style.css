@@ -476,13 +476,13 @@ nav {
 .card-content_link {
   margin-top: 2.4rem;
 }
-
+/*
 .services {
   margin-top: 10.4rem;
   padding-top: 10.4rem;
 }
 
-/* .services:before {
+ .services:before {
   content: "";
   position: absolute;
   z-index: -1;
@@ -836,7 +836,8 @@ nav {
      padding: 0 24px;
    }
    .naya-must-try > img,
-   .naya-menu > img{
+   .naya-menu > img,
+   .naya-menu {
      width: 100%;
    }
 }
@@ -869,7 +870,8 @@ nav {
     padding: 0 24px;
   }
   .naya-must-try > img,
-  .naya-menu > img{
+  .naya-menu > img,
+  .naya-menu {
     width: 100%;
   }
 }
