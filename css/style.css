@@ -716,13 +716,14 @@ nav {
 
 .naya-must-try > img,
 .naya-menu{
-  width: 60%;
+  width: 40%;
   margin: 0 auto;
   display: block;
 }
 
 .naya-menu {
-
+  width: 60%;
+  margin: 32px auto;
 }
 
 

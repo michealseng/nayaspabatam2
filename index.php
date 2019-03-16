@@ -62,106 +62,20 @@
     </div>
     </div>
   </div>
-  <div class="section-footer">
-    <a href="#">Learn More about Hydrotherapy Spa</a>
 </section>
 
 <section class="section services">
   <div class="section-title">
     <h3>Services</h3>
   </div>
-  <div class="cards grid-1120">
-    <div class="card-container">
-      <a href="services.php#signature-rituals">
-        <div class="card">
-        <div class="card-img">
-          <img src="assets/services/indulgence.jpg" alt="Complete Body Indulgence Image" />
-        </div>
-        <div class="card-content">
-          <h4>Signature Rituals</h4>
-          <div class="card-content_description">
-            Any Signature Rituals last at least 3 hours, where you will be pampered from head to toe. It's the perfect relaxation you need.
-          </div>
-          <!-- <div class="card-content_link">
-            <a href="#">See Complete Body Indulgence Services</a>
-          </div> -->
-        </div>
-      </div>
-      </a>
+
+    <div class="naya-must-try">
+        <img src="assets/naya-must-try.jpeg" alt="Naya Must Try Services Menu" />
     </div>
-    <div class="card-container">
-      <a href="services.php#combinations">
-        <div class="card">
-          <div class="card-img"><img src="assets/services/classical-massage.jpg" alt="Relieve sore and muscle tension image" /></div>
-          <div class="card-content">
-            <h4>Combinations</h4>
-            <div class="card-content_description">
-              Almost similar to Signature Rituals, which includes a mix combination of foot and massage treatment.
-            </div>
-          </div>
-        </div>
-      </a>
+    <div class="naya-menu">
+        <img src="assets/naya-the-menu.jpeg" alt="Naya Ala-Cart Menu" />
+        <img src="assets/naya-the-menu-2.jpeg" alt="Naya Ala-Cart Menu" />
     </div>
-    <div class="card-container">
-      <a href="services.php#massage">
-        <div class="card">
-        <div class="card-img"><img src="assets/services/massage.jpg" alt="Relieve sore and muscle tension image" /></div>
-        <div class="card-content">
-          <h4>Massage Treatments</h4>
-          <div class="card-content_description">
-            We offer essential oils massage, hot stone, deep tissue, herbal compress, and a four-hands massage.
-          </div>
-        </div>
-      </div>
-      </a>
-    </div>
-    <div class="card-container">
-      <a href="services.php#foot">
-        <div class="card">
-          <div class="card-img">
-            <img <img src="assets/services/foot.jpg" alt="Relieve sore and muscle tension image" />
-          </div>
-          <div class="card-content">
-            <h4>Foot Treatments</h4>
-            <div class="card-content_description">
-              We offer foot spa, reflexology, and foot scrub. If you want to pampered your feet, try our Naya Special Foot Spa.
-            </div>
-          </div>
-        </div>
-      </a>
-    </div>
-    <div class="card-container">
-      <a href="services.php#bath">
-        <div class="card">
-          <div class="card-img"><img src="assets/services/bath.jpg" alt="Relieve sore and muscle tension image" /></div>
-          <div class="card-content">
-            <h4>Ultrasonic Bubble Bath</h4>
-            <div class="card-content_description">
-              It has been a long tradition to heal through water. Our Ultrasonic Bubble Bath will help you release your tensions and give back the energy you need.
-            </div>
-          </div>
-        </div>
-      </a>
-    </div>
-    <div class="card-container">
-      <a href="services.php#face">
-        <div class="card">
-        <div class="card-img">
-          <img <img src="assets/services/facial.jpg" alt="Relieve sore and muscle tension image" />
-        </div>
-        <div class="card-content">
-          <h4>Face Therapy</h4>
-          <div class="card-content_description">
-            We offers Face Accupressure, Refreshing Facial, Eye Compress, Ear Candle, and Anti-Aging Facial.
-          </div>
-        </div>
-      </div>
-      </a>
-    </div>
-  </div>
-  <div class="section-footer">
-    <a href="services.php">See All Services</a>
-  </div>
 </section>
 
 <section class="section booknow">
@@ -171,7 +85,7 @@
 
     </div>
     <div class="booknow-buttons">
-      <span>Contact us through WhatsApp, email, or call us.</span> 
+      <span>Contact us through WhatsApp, email, or call us.</span>
       <!-- <button class="btn btn-inverse">Contact Us</button> -->
     </div>
   </div>
