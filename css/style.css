@@ -482,7 +482,7 @@ nav {
   padding-top: 10.4rem;
 }
 
-.services:before {
+/* .services:before {
   content: "";
   position: absolute;
   z-index: -1;
@@ -492,7 +492,7 @@ nav {
   left: 0;
   transform: skewY(-8deg);
   background: #f4f4f4;
-}
+} */
 
 .services-nav {
   background: white;

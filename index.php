@@ -50,16 +50,16 @@
     </div>
     <div class="card-container">
       <div class="card shadowless">
-      <div class="card-img benefit-slim">
+        <div class="card-img benefit-slim">
         <img src="assets/benefits/Slimming.jpg" alt="Slimming Image" />
       </div>
-      <div class="card-content">
+        <div class="card-content">
         <h4>Stimulate exercise and contouring</h4>
         <div class="card-content_description">
           The ultrasonic bubble stimulates your body as if you are running 3-5 KM with just 10 minutes of bathing.
         </div>
       </div>
-    </div>
+      </div>
     </div>
   </div>
 </section>
@@ -68,7 +68,6 @@
   <div class="section-title">
     <h3>Services</h3>
   </div>
-
     <div class="naya-must-try">
         <img src="assets/naya-must-try.jpeg" alt="Naya Must Try Services Menu" />
     </div>
@@ -82,11 +81,9 @@
   <div class="grid-1120">
     <div class="booknow-message">
       <h2>Ready to relax and getaway?</h2>
-
     </div>
     <div class="booknow-buttons">
       <span>Contact us through WhatsApp, email, or call us.</span>
-      <!-- <button class="btn btn-inverse">Contact Us</button> -->
     </div>
   </div>
 </section>
